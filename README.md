@@ -1,2 +1,2 @@
-# the-text-project
+# JS 函数思想
 JS 函数思想
